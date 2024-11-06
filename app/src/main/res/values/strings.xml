@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="t1_logo">T1_logo</string>
+    <string name="t1_teams">T1 Teams</string>
+    <string name="avatar">avatar</string>
+    <string name="name">name</string>
+    <string name="lee_sang_hyeok">Lee Sang-hyeok</string>
+    <string name="player_avatar">player avatar</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="faker">Faker</string>
+    <string name="background">background</string>
+    <string name="back">back</string>
+    <string name="favorite_button">favorite_button</string>
+    <string name="_1000">1000</string>
+
+    <string name="faker_wiki">Lee Sang-hyeok (Korean: 이상혁; born May 7, 1996), better known as Faker, is a South Korean professional League of Legends player for T1. He gained prominence after joining SK Telecom T1 (now T1) in 2013, where he has since played as the team\'s mid-laner. Throughout his career, he has secured a record of 10 League of Legends Champions Korea (LCK) titles, two Mid-Season Invitational (MSI) titles, and a record five World Championship titles. Faker is widely regarded as the greatest League of Legends player in history and has drawn comparison analogizing him to basketball player Michael Jordan for his esports success.</string>
+
+    <string name="oner_wiki">Moon Hyeon-jun (Korean: 문현준), better known as Oner,[a] is a South Korean professional League of Legends player for T1. Throughout his career, he has won one League of Legends Champions Korea (LCK) titles and two League of Legends World Championship titles.</string>
+
+    <string name="gumayushi_wiki">Lee Min-hyeong (Korean: 이민형; born February 6, 2002), better known as Gumayusi (Korean: 구마유시) or simply Guma, is a South Korean professional League of Legends player for T1.[1] As a member of T1, he won the 2023 and 2024 League of Legends World Championships.[2]
+        He was a trainee of T1 before being promoted to the team.
+    </string>
+
+    <string name="keria_wiki">
+        Ryu Min-seok (Korean: 류민석; born October 14, 2002), better known as Keria, is a South Korean professional League of Legends player for T1. Throughout his career, he has won one League of Legends Champions Korea (LCK) title and two League of Legends World Championship titles. He also represented the South Korean national team at the 2022 Asian Games, earning a gold medal.
+    </string>
+
+    <string name="zues_wiki">
+        Choi Woo-je (Korean: 최우제; born January 31, 2004), better known as Zeus[a], is a South Korean professional League of Legends player for T1. Throughout his career, he has won one League of Legends Champions Korea (LCK) title and two League of Legends World Championship titles. He also represented the South Korean national team at the 2022 Asian Games, earning a gold medal.
+    </string>
+</resources>
